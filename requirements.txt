@@ -1,0 +1,5 @@
+environs==9.5.0
+gspread==5.10.0
+google-auth==2.22.0
+pandas==2.0.3
+telethon==1.29.2
